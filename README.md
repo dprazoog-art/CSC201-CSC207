@@ -9,21 +9,4 @@ https://forms.gle/bXnrSdgeQQRFVSW8A
 
 Deadline: *Friday, 20th November, 2026*
 
-SOLUTION TO ASSIGNMENT BELOW👇:
-
-#include <iostream>
-using namespace std;
-
-int main() {
-    int number;
-    cout << "Enter a number: ";
-    cin >> number;
-
-    if (number % 2 == 0) {
-        cout << number << " is Even" << endl;
-    } else {
-        cout << number << " is Odd" << endl;
-    }
-
-    return 0;
-}
+SOLUTION TO ASSIGNMENT IS IN odd_even.cpp
